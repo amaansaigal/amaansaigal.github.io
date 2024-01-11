@@ -1,5 +1,5 @@
 # amaansaigal.github.io
-Portfolio of projects, experiences, and skills
+
 # Data Science, Quantitative analysis, Environmental Economics and ESG, Fintech
 
 ## Education
