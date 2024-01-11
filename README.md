@@ -3,8 +3,8 @@
 ### Data Science, Quantitative analysis, Fintech, Environmental Economics and ESG
 
 ### Education
-####MSc Fintech with Business Analytics (Sep 2022 - Sep 2023)
-#####University of Westminster (London, UK)
+#### MSc Fintech with Business Analytics (Sep 2022 - Sep 2023)
+##### University of Westminster (London, UK)
 
 - Time Series & Predictive Analysis: Applied advanced techniques to decipher temporal data patterns, forecast future trends, and analyze 
   financial time series including stocks and options. Leveraged statistical techniques to anticipate future outcomes based on historical 
@@ -23,8 +23,8 @@
 3) Smart contract development for a business idea using Solidity.
 4) ESG sentiment analysis using NLP
 
-####MSc Environmental Economics and Environmental Management (Sep 2019 - Jan 2021)
-#####University of York (York, UK)
+#### MSc Environmental Economics and Environmental Management (Sep 2019 - Jan 2021)
+##### University of York (York, UK)
 
 - Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and Governance.
 - Developed expertise in Statistical Analysis for environmental research and concepts in Natural Resource Economics.
@@ -32,8 +32,8 @@
   Research skills, Natural Resource Economics, Welfare Economics.
 - Dissertation: “Disaster Preparedness- A Case Study on Flash floods in Barranquilla”
 
-####BSc Economics Honours (Jun 2015 — Jun 2018)
-#####Symbiosis School of Economics (Pune, India)
+#### BSc Economics Honours (Jun 2015 — Jun 2018)
+##### Symbiosis School of Economics (Pune, India)
 
 - Modules included: Financial Management, Portfolio Management, Econometrics, Macroeconomics, Environmental Economics 
 - Dissertation: “Syrian Refugee Crisis and its Economic Impacts”
