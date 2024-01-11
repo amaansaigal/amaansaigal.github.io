@@ -1,6 +1,6 @@
 # amaansaigal.github.io
 
-## Data Science, Quantitative analysis, Environmental Economics and ESG, Fintech
+### Data Science, Quantitative analysis, Fintech, Environmental Economics and ESG
 
 ### Education
 ####MSc Fintech with Business Analytics (Sep 2022 - Sep 2023)
