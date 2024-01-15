@@ -38,15 +38,37 @@ title: Education
 </p>
     </div>
     <div id="uni2" class="edu-content" style="display:none;">
-        <h3></h3>
-        <p>Details about University 2 experience...</p>
+        <h3>University of York (York, UK) - (Sep 2019 - Jan 2021)</h3>
+        <p>
+            <ul>
+                <li>Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and Governance.</li>
+<li>Developed expertise in Statistical Analysis for environmental research and concepts in Natural Resource Economics.</li>
+<li>Modules included: Applied Environmental Economics, Environment Impact Assessment, Environmental Governance, Statistical Methods and
+Research skills, Natural Resource Economics, Welfare Economics.</li>
+<li>Dissertation: “Disaster Preparedness- A Case Study on Flash floods in Barranquilla”</li>
+            </ul>
+        </p>
+            
     </div>
     <div id="uni3" class="edu-content" style="display:none;">
-        <h3></h3>
-        <p>Details about University 3 experience...</p>
+        <h3>Symbiosis School of Economics (Pune, India) - (Jun 2015 — Jun 2018)</h3>
+        <p>
+            <ul>
+            <li>Modules included: Financial Management, Portfolio Management, Econometrics, Macroeconomics, Environmental Economics</li>
+            <li>Dissertation: “Syrian Refugee Crisis and its Economic Impacts”</li>
+            </ul>
     </div>
     <div id="cert" class="edu-content" style="display:none;">
-        <h3></h3>
-        <p>Details about University 3 experience...</p>
+        <h3>Official and Online certifications</h3>
+        <p>
+            <ul>
+           <li><a href="https://courses.edx.org/certificates/e7e7db74245a4f3597e20fdcd97000ee">Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs) by World Bank</a></li>
+           <li><a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R (Udemy)</a></li>
+           <li><a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp (Udemy)</a></li>
+           <li><a href="https://www.udemy.com/course/time-series-analysis/">Time Series Analysis, Forecasting, and Machine Learning (Udemy)</a></li>
+           <li><a href="https://www.udemy.com/course/numpy-python/">Deep Learning Prerequisites: The Numpy Stack in Python V2 (Udemy)</a><li>
+           <li><a href="https://www.udemy.com/course/linear-regression-with-artificial-neural-network/">Artificial Neural Network for Regression (Udemy)</a></li>
+            </ul>
+        </p>
     </div>
 </div>
