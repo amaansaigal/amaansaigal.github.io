@@ -39,7 +39,7 @@ title: Education
             </p>
         </div>
         <div id="uni1-logo" class="edu-logo">
-            <img src="/path/to/university1-logo.jpg" alt="University 1 Logo">
+            <img src="/assets/images/WBS.jpeg" alt="Uni of York Logo">
         </div>
 
         
