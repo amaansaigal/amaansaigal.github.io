@@ -11,6 +11,7 @@ title: Education
 
         <div id="uni1" class="edu-content" style="display:none;">
             <h3>University of Westminster (London, UK) - (Sep 2022 - Sep 2023)</h3>
+            <img href="/assets/images/WBS.peg" class="edu-logo">
             <p>
                 <ul>
             <li> <strong>Time Series & Predictive Analysis:</strong> Applied advanced techniques to decipher temporal data patterns, forecast future trends, and analyze financial time series including stocks and options. Leveraged statistical techniques to anticipate future outcomes based on historical data.</li>
