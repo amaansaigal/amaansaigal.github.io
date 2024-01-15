@@ -23,7 +23,10 @@ title: Education
         
         - Modules Included: Blockchain Technologies and cryptocurrencies, Computational methods for Finance, Predictive Analysis, Big Data, Banking Technology, Artificial neural networks, machine learning algorithms, Tensorflow, SQL, Reinforcement learning, Portfolio Analytics using Machine Learning, Smart Contracts, Time series Analysis
         
-        - Projects: 1) Mutual funds and stocks portfolio optimization using machine learning techniques. 2) Artificial Neural Networks for stock selection 3) Smart contract development for a business idea using Solidity. 4) ESG sentiment analysis using NLP
+        - Projects: 1) Mutual funds and stocks portfolio optimization using machine learning techniques. 
+        2) Artificial Neural Networks for stock selection 
+        3) Smart contract development for a business idea using Solidity. 
+        4) ESG sentiment analysis using NLP
 </p>
     </div>
     <div id="uni2" class="edu-content" style="display:none;">
