@@ -3,6 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
+    
+    <!-- Conditional link for education.css -->
+    {% if page.url contains 'Education' %}
+    <link rel="stylesheet" href="/assets/css/education.css">
+    {% endif %}
+    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -33,50 +39,6 @@
         .container {
             padding: 20px;
         }
-
-        #education-container {
-    text-align: center;
-}
-.edu-content h3 {
-    margin-bottom: 0.5em; /* Adds space below the headers */
-}
-
-.edu-btn {
-    background-color: #00ADB5; /* Teal color */
-    color: #EEEEEE; /* Light gray */
-    border: none;
-    padding: 10px 20px;
-    margin: 10px;
-    cursor: pointer;
-}
-.edu-btn:hover {
-    background-color: #393E46; /* Darker gray */
-    margin-right: 10px; /* Adds space between buttons */
-    margin-bottom: 10px; /* Adds space below the buttons */
-}
-.edu-content {
-    color: #F9F7C9; /* some time of cream yellow */
-    margin: 20px auto;
-    padding: 20px;
-    border: 1px solid #00ADB5; /* Teal border */
-    width: 80%;
-    max-width: 600px;
-    border-radius: 5px; /* Rounds the corners of the education sections */
-    margin-bottom: 20px; /* Adds space between the sections */
-}
-.edu-content ul {
-    list-style-type: none; /* Removes bullet points */
-    padding-left: 0; /* Aligns list to the left */
-}
-.edu-content p {
-    margin-bottom: 1em; /* Adds space below each paragraph */
-    line-height: 1.6; /* Makes lines within paragraphs more spaced out */
-    text-indent: 20px; /* Indents the first line of each paragraph */
-}
-.edu-content li {
-    margin-bottom: 0.5em; /* Adds space below each list item */
-}
-
     </style>
 </head>
 <body>
