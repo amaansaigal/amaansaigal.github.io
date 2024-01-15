@@ -71,7 +71,7 @@ title: Education
         <h3>Official and Online certifications</h3>
         <p>
             <ul>
-           <li><a href="https://courses.edx.org/certificates/e7e7db74245a4f3597e20fdcd97000ee">Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs) by World Bank</a></li>
+           <li>Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs) by <a href="https://courses.edx.org/certificates/e7e7db74245a4f3597e20fdcd97000ee">World Bank</a></li>
            <li>Machine Learning A-Z: AI, Python & R <a href="https://www.udemy.com/course/machinelearning/">(Udemy)</a></li>
            <li>100 Days of Code: The Complete Python Pro Bootcamp <a href="https://www.udemy.com/course/100-days-of-code/">(Udemy)</a></li>
            <li>Time Series Analysis, Forecasting, and Machine Learning <a href="https://www.udemy.com/course/time-series-analysis/">(Udemy)</a></li>
