@@ -9,7 +9,6 @@ title: Education
     <button class="edu-btn" onclick="toggleEducation('uni3')">BSc Economics Honours</button>
     <button class="edu-btn" onclick="toggleEducation('cert')">Certifications</button>
 
-    <div class="edu-wrapper">
         <div id="uni1" class="edu-content" style="display:none;">
             <h3>University of Westminster (London, UK) - (Sep 2022 - Sep 2023)</h3>
             <p>
@@ -38,9 +37,7 @@ title: Education
                 
             </p>
         </div>
-        <div id="uni1-logo" class="edu-logo">
-            <img src="/assets/images/WBS.jpeg" alt="Uni of York Logo">
-        </div>
+        
 
         
         
@@ -85,5 +82,5 @@ title: Education
             </p>
         </div>
 
-    </div>
+    
 </div>
