@@ -32,6 +32,10 @@ nav a {
     margin-bottom: 0.5em; /* Adds space below the headers */
     
 }
+.edu-logo {
+    height: 50%;
+    width: 50%;
+}
 
 .edu-btn {
     background-color: #00ADB5; /* Teal color */
