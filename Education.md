@@ -62,6 +62,7 @@ title: Education
             <li>Modules included: Financial Management, Portfolio Management, Econometrics, Macroeconomics, Environmental Economics</li>
             <li>Dissertation: “Syrian Refugee Crisis and its Economic Impacts”</li>
             </ul>
+        </p>
     </div>
 
     
@@ -74,7 +75,7 @@ title: Education
            <li><a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R (Udemy)</a></li>
            <li><a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp (Udemy)</a></li>
            <li><a href="https://www.udemy.com/course/time-series-analysis/">Time Series Analysis, Forecasting, and Machine Learning (Udemy)</a></li>
-           <li><a href="https://www.udemy.com/course/numpy-python/">Deep Learning Prerequisites: The Numpy Stack in Python V2 (Udemy)</a><li>
+           <li><a href="https://www.udemy.com/course/numpy-python/">Deep Learning Prerequisites: The Numpy Stack in Python V2 (Udemy)</a></li>
            <li><a href="https://www.udemy.com/course/linear-regression-with-artificial-neural-network/">Artificial Neural Network for Regression (Udemy)</a></li>
             </ul>
         </p>
