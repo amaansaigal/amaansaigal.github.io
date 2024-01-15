@@ -30,8 +30,33 @@ nav a {
 }
 .edu-content h3 {
     margin-bottom: 0.5em; /* Adds space below the headers */
+    
+}
+/* Container for the university logo/image */
+.edu-logo {
+    display: none; /* Initially hidden */
+    width: 50%; /* Adjust the width as needed */
+    max-width: 300px; /* Or any other max-width */
 }
 
+/* Style for the image */
+.edu-logo img {
+    width: 100%; /* Make the image fill the container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 5px; /* Optional: rounds the corners of the image */
+}
+
+/* Show the logo when it is active */
+.edu-logo.active {
+    display: block;
+}
+
+.edu-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px; /* Space between text and image */
+}
 .edu-btn {
     background-color: #00ADB5; /* Teal color */
     color: #EEEEEE; /* Light gray */
@@ -50,7 +75,7 @@ nav a {
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #00ADB5; /* Teal border */
-    width: 80%;
+    width: 50%;
     max-width: 600px;
     border-radius: 5px; /* Rounds the corners of the education sections */
     margin-bottom: 20px; /* Adds space between the sections */
