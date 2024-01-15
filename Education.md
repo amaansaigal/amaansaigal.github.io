@@ -72,11 +72,11 @@ title: Education
         <p>
             <ul>
            <li><a href="https://courses.edx.org/certificates/e7e7db74245a4f3597e20fdcd97000ee">Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs) by World Bank</a></li>
-           <li><a href="https://www.udemy.com/course/machinelearning/">Machine Learning A-Z: AI, Python & R (Udemy)</a></li>
-           <li><a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp (Udemy)</a></li>
-           <li><a href="https://www.udemy.com/course/time-series-analysis/">Time Series Analysis, Forecasting, and Machine Learning (Udemy)</a></li>
-           <li><a href="https://www.udemy.com/course/numpy-python/">Deep Learning Prerequisites: The Numpy Stack in Python V2 (Udemy)</a></li>
-           <li><a href="https://www.udemy.com/course/linear-regression-with-artificial-neural-network/">Artificial Neural Network for Regression (Udemy)</a></li>
+           <li>Machine Learning A-Z: AI, Python & R <a href="https://www.udemy.com/course/machinelearning/">(Udemy)</a></li>
+           <li>100 Days of Code: The Complete Python Pro Bootcamp <a href="https://www.udemy.com/course/100-days-of-code/">(Udemy)</a></li>
+           <li>Time Series Analysis, Forecasting, and Machine Learning <a href="https://www.udemy.com/course/time-series-analysis/">(Udemy)</a></li>
+           <li>Deep Learning Prerequisites: The Numpy Stack in Python V2 <a href="https://www.udemy.com/course/numpy-python/">(Udemy)</a></li>
+           <li>Artificial Neural Network for Regression <a href="https://www.udemy.com/course/linear-regression-with-artificial-neural-network/">(Udemy)</a></li>
             </ul>
         </p>
     </div>
