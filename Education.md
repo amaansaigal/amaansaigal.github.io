@@ -44,6 +44,7 @@ title: Education
         
         <div id="uni2" class="edu-content" style="display:none;">
             <h3>University of York (York, UK) - (Sep 2019 - Jan 2021)</h3>
+            <img src="/assets/images/UOY.png" class="edu-logo">
             <p>
                 <ul>
                     <li>Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and Governance</li>
@@ -59,6 +60,7 @@ title: Education
         
         <div id="uni3" class="edu-content" style="display:none;">
             <h3>Symbiosis School of Economics (Pune, India) - (Jun 2015 — Jun 2018)</h3>
+            <img src="/assets/images/SSE.png" class="edu-logo">
             <p>
                 <ul>
                 <li>Modules included: Financial Management, Portfolio Management, Econometrics, Macroeconomics, Environmental Economics</li>
