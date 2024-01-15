@@ -9,6 +9,7 @@ title: Education
     <button class="edu-btn" onclick="toggleEducation('uni3')">BSc Economics Honours</button>
     <button class="edu-btn" onclick="toggleEducation('cert')">Certifications</button>
 
+
     <div id="uni1" class="edu-content" style="display:none;">
         <h3>University of Westminster (London, UK) - (Sep 2022 - Sep 2023)</h3>
         <p>
@@ -35,21 +36,25 @@ title: Education
         </li>
             </ul>
             
-</p>
+        </p>
     </div>
+
+    
     <div id="uni2" class="edu-content" style="display:none;">
         <h3>University of York (York, UK) - (Sep 2019 - Jan 2021)</h3>
         <p>
             <ul>
-                <li>Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and Governance.</li>
-<li>Developed expertise in Statistical Analysis for environmental research and concepts in Natural Resource Economics.</li>
-<li>Modules included: Applied Environmental Economics, Environment Impact Assessment, Environmental Governance, Statistical Methods and
-Research skills, Natural Resource Economics, Welfare Economics.</li>
-<li>Dissertation: “Disaster Preparedness- A Case Study on Flash floods in Barranquilla”</li>
+                <li>Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and Governance</li>
+    <li>Developed expertise in Statistical Analysis for environmental research and concepts in Natural Resource Economics.</li>
+    <li>Modules included: Applied Environmental Economics, Environment Impact Assessment, Environmental Governance, Statistical Methods and
+        Research skills, Natural Resource Economics, Welfare Economics.</li>
+    <li>Dissertation: “Disaster Preparedness- A Case Study on Flash floods in Barranquilla”</li>
             </ul>
         </p>
             
     </div>
+    
+    
     <div id="uni3" class="edu-content" style="display:none;">
         <h3>Symbiosis School of Economics (Pune, India) - (Jun 2015 — Jun 2018)</h3>
         <p>
@@ -58,6 +63,9 @@ Research skills, Natural Resource Economics, Welfare Economics.</li>
             <li>Dissertation: “Syrian Refugee Crisis and its Economic Impacts”</li>
             </ul>
     </div>
+
+    
+    
     <div id="cert" class="edu-content" style="display:none;">
         <h3>Official and Online certifications</h3>
         <p>
@@ -71,4 +79,6 @@ Research skills, Natural Resource Economics, Welfare Economics.</li>
             </ul>
         </p>
     </div>
+
+
 </div>
