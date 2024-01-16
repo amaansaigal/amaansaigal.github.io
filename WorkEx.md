@@ -98,3 +98,57 @@ title: Education
         </ul>
     </p>
 </div>
+
+
+<!-- SG Analytics Experience Section -->
+<div id="SGA" class="edu-content" style="display:none;">
+    <h3>SG Analytics (Pune, India) - (May 2018 - Mar 2019)</h3>
+    <img src="/assets/images/SGA.png" class="edu-logo">
+    <p>
+        <!-- Experience Details as List -->
+        <ul>
+            <li><strong>ESG Framework Integration:</strong>
+                <ul>
+                    <li>Developed a standardized reporting tool by integrating over 10 key ESG frameworks using SQL and Python.</li>
+                    <li>Enhanced overall ESG reporting efficiency and broadened accessibility for more than 50 companies.</li>
+                </ul>
+            </li>
+            <li><strong>Reporting Tool Design:</strong>
+                <ul>
+                    <li>Engineered reporting tools integrating frameworks like TCFD, SGX, SASB, CDP, GRI, EU Taxonomy, and HXEX.</li>
+                    <li>Improved ESG reporting efficiency by 30% and facilitated user accessibility.</li>
+                </ul>
+            </li>
+            <li><strong>Materiality Assessment Analysis:</strong>
+                <ul>
+                    <li>Conducted materiality assessments for over 50 companies, aligning with specific requirements and industry contexts.</li>
+                    <li>Utilized Excel for data organization, ensuring accuracy and relevance in ESG indicators and frameworks.</li>
+                </ul>
+            </li>
+            <li><strong>Visualization & Reporting:</strong>
+                <ul>
+                    <li>Developed clear, insightful presentations using Power BI, Tableau, and Python.</li>
+                    <li>Effectively communicated materiality assessment findings, guiding companies in ESG reporting strategies.</li>
+                </ul>
+            </li>
+            <li><strong>KPI Topic-Mapping:</strong>
+                <ul>
+                    <li>Streamlined inter-framework comparisons by mapping KPIs to relevant topics across various frameworks.</li>
+                    <li>Facilitated efficient performance analysis and minimized reporting redundancy.</li>
+                </ul>
+            </li>
+            <li><strong>Quantitative ESG Analysis & Reporting Tool Design:</strong>
+                <ul>
+                    <li>Developed tools for ESG framework integration and quantitative materiality assessments using SQL and Python.</li>
+                    <li>Enhanced data-driven analysis and reporting efficiency.</li>
+                </ul>
+            </li>
+            <li><strong>Data Visualization & Strategic Decision-Making:</strong>
+                <ul>
+                    <li>Utilized Power BI and Tableau for creating clear data visualizations, aiding strategic decision-making.</li>
+                    <li>Streamlined KPI mapping and performance analysis across frameworks.</li>
+                </ul>
+            </li>
+        </ul>
+    </p>
+</div>
