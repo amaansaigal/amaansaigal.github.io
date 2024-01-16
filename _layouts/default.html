@@ -5,7 +5,7 @@
     <title>{{ page.title }}</title>
     
     <!-- Conditional link for education.css -->
-    {% if page.url contains 'Education' page.url contains 'Projects' %}
+    {% if page.url contains 'Education' or page.url contains 'Projects' or page.url contains 'WorkEx' %}
     <link rel="stylesheet" href="/assets/css/education.css">
     {% endif %}
     
