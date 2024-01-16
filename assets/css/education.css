@@ -30,6 +30,7 @@ nav a {
 }
 .edu-content h3 {
     margin-bottom: 0.5em; /* Adds space below the headers */
+    font-size: 14px; /* Adjusts the font size to 14 pixels */
     
 }
 .edu-logo {
