@@ -1,1 +1,100 @@
+---
+layout: default
+title: Education
+---
 
+<!-- Education Container -->
+<div id="education-container">
+    <!-- Education Buttons -->
+    <button class="edu-btn" onclick="toggleEducation('FG')">Fintech Research Intern</button>
+    <button class="edu-btn" onclick="toggleEducation('diginex')">ESG Framework Specialist</button>
+    <button class="edu-btn" onclick="toggleEducation('SGA')">ESG Research Analyst (Consultant)</button>
+    <button class="edu-btn" onclick="toggleEducation('other')">Other Experiences</button>
+
+    <!-- Fintech Global Experience Section -->
+    <div id="FG" class="edu-content" style="display:none;">
+        <h3>Fintech Global (London, UK) - (Mar 2023 - Aug 2023)</h3>
+        <img src="/assets/images/FG.png" class="edu-logo">
+        <p>
+            <!-- Experience Details as List -->
+            <ul>
+                <li><strong>Course Development and Instruction:</strong>
+                    <ul>
+                        <li>Designed and implemented InsurTech and ESG-Fintech courses, widely utilized by professionals from over 100 leading companies.</li>
+                        <li>Focused on providing hands-on learning experiences and real-world applications within the fintech sector.</li>
+                    </ul>
+                </li>
+                <li><strong>Fintech Networking and Industry Engagement:</strong>
+                    <ul>
+                        <li>Played a pivotal role in organizing 3 large-scale fintech networking events.</li>
+                        <li>Conducted interviews and discussions with over 50 ESG-Fintech and InsurTech leaders to integrate industry insights into course material.</li>
+                    </ul>
+                </li>
+                <li><strong>Data Analysis and Market Research:</strong>
+                    <ul>
+                        <li>Performed comprehensive data analysis of more than 500 Fintech industry companies using Python and SQL.</li>
+                        <li>Evaluated companies on various financial and non-financial parameters to assess innovation trends and market positioning.</li>
+                    </ul>
+                </li>
+                <li><strong>Presentation and Data Visualization:</strong>
+                    <ul>
+                        <li>Developed and delivered engaging client presentations using PowerPoint, effectively communicating complex fintech trends and strategies.</li>
+                        <li>Utilized Tableau for creating impactful data visualizations that succinctly conveyed intricate market data and analysis.</li>
+                    </ul>
+                </li>
+                <li><strong>Quantitative Analysis and Financial Modeling:</strong>
+                    <ul>
+                        <li>Conducted in-depth quantitative data analysis, focusing on financial modeling and market trend analysis.</li>
+                        <li>Applied advanced analytical techniques to derive meaningful insights from complex financial data sets.</li>
+                    </ul>
+                </li>
+            </ul
+        </p>
+  </div>
+</div>
+
+<!-- Diginex Experience Section -->
+<div id="diginex" class="edu-content" style="display:none;">
+    <h3>Diginex Limited (London, UK) - (Feb 2022 - Aug 2022)</h3>
+    <img src="/assets/images/diginex.jpeg" class="edu-logo">
+    <p>
+        <!-- Experience Details as List -->
+        <ul>
+            <li><strong>Carbon Project Leadership & Data Analysis:</strong>
+                <ul>
+                    <li>Led the MSCI Carbon Project, concentrating on emission and energy data analysis with Python and Excel.</li>
+                    <li>Enhanced ESG data processing methods, significantly improving efficiency in emission trend analysis.</li>
+                </ul>
+            </li>
+            <li><strong>Productivity Enhancement & Research:</strong>
+                <ul>
+                    <li>Implemented Tableau to increase team productivity and facilitate handling of data-intensive projects.</li>
+                    <li>Authored research on “Bitcoins: The Energy Problem,” demonstrating expertise in data-driven sustainability analysis.</li>
+                </ul>
+            </li>
+            <li><strong>Rapid Promotion & Project Management:</strong>
+                <ul>
+                    <li>Achieved rapid promotion within 2 months due to significant impact on projects.</li>
+                    <li>Served as the primary liaison between clients and international teams, ensuring effective project delivery.</li>
+                </ul>
+            </li>
+            <li><strong>Data Analysis & Operational Enhancement:</strong>
+                <ul>
+                    <li>Advanced methods in ESG data collection, cleaning, and manipulation using Python and Excel.</li>
+                    <li>Achieved a 75% increase in efficiency and accuracy in year-on-year emissions analysis.</li>
+                </ul>
+            </li>
+            <li><strong>Efficiency Metrics & Team Expansion:</strong>
+                <ul>
+                    <li>Boosted team productivity by 50% using Tableau-driven methodologies, leading to team expansion and increased project intake.</li>
+                </ul>
+            </li>
+            <li><strong>Research & Sustainability Analysis:</strong>
+                <ul>
+                    <li>Conducted extensive research and authored Bitcoins: The Energy Problem - A Sustainability Analysis”.</li>
+                    <li>Highlighted expertise in analyzing and presenting sustainability issues in the fintech sector.</li>
+                </ul>
+            </li>
+        </ul>
+    </p>
+</div>
