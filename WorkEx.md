@@ -48,7 +48,7 @@ title: Education
                         <li>Applied advanced analytical techniques to derive meaningful insights from complex financial data sets.</li>
                     </ul>
                 </li>
-            </ul
+            </ul>
         </p>
   </div>
 </div>
