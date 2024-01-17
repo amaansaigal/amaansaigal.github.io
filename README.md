@@ -21,6 +21,9 @@ Above all, it's the intersection of **ESG principles and quantitative data** whe
 - **Data Analysis**: Statistical Analysis, Time Series Analysis, Data Wrangling, Data Visualization (Power BI & Tableau) 
 - **Machine Learning**: Regression, Classification, Clustering, SVM, Neural Networks, NLP
 
+
+
+
 ### Machine Learning & Deep Learning Aspirations
 
 My current educational and professional endeavors are increasingly centered around **Machine Learning (ML) and Deep Learning (DL)** techniques. I am actively engaging in learning how these powerful tools can be harnessed to construct strategic, mathematical, and statistical models that drive informed decision-making. The intricate mechanics of ML and DL, from neural networks to predictive analytics, are not just academic pursuits but pathways to practical applications in portfolio management, market analysis, and beyond.
@@ -45,6 +48,10 @@ In this journey, I aim to not remain siloed within a specific sector. The versat
 
 ### Career Goals
 I aim to lead innovative projects in data science that can drive strategic decisions in business. I am particularly interested in financial technology and its capacity to improve market efficiency and transparency.
+
+
+
+
 
 
 
