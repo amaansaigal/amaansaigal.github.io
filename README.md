@@ -18,7 +18,7 @@ Above all, it's the intersection of **ESG principles and quantitative data** whe
 
 - **Programming Languages**: Python, R, HTML, CSS
 - **Tools & Technologies**: TensorFlow, PyTorch, Scikit-Learn, SQL, Pandas, Numpy, BeautifulSoup, NLTK
-- **Data Analysis**: Statistical Analysis, Data Wrangling, Data Visualization (Power BI & Tableau) 
+- **Data Analysis**: Statistical Analysis, Time Serries Abalysis, Data Wrangling, Data Visualization (Power BI & Tableau) 
 - **Machine Learning**: Regression, Classification, Clustering, SVM, Neural Networks, NLP
 
 ### Machine Learning & Deep Learning Aspirations
