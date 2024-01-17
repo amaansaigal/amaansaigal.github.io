@@ -7,6 +7,7 @@ title: Projects
     <button class="edu-btn" onclick="toggleEducation('proj1')">Ensemble Learning for Stock Price Prediction</button>
     <button class="edu-btn" onclick="toggleEducation('proj2')">Portfolio Optimisation</button>
     <button class="edu-btn" onclick="toggleEducation('proj3')">Data Exploration, Cleaning and Transformation</button>
+    <button class="edu-btn" onclick="toggleEducation('proj4')">Designing a Solana derivative</button>
     
     <div id="proj1" class="edu-content" style="display:none;">
         <h3>About the Project</h3>
@@ -27,9 +28,16 @@ title: Projects
         </p>
         <p>
             <ul>
-                <li>Data Exploration Pandas College Major <a href="">(link)</a></li>
+                <li>Data Exploration Pandas College Major <a href="https://github.com/amaansaigal/Data_Exploration_Pandas_College_Major">(link)</a></li>
                 <li>Spotify Data Exploration <a href="">(link)</a></li>
             </ul>
+        </p>
+    </div>
+
+
+    <div id="proj4" class="edu-content" style="display:none;">
+        <h3>About the Project</h3>
+        <p>This <a href="https://github.com/amaansaigal/Portfolio-Optimization-Analysis">repository</a> contains a Jupyter Notebook and associated data files for a portfolio optimization analysis project. The project applies quantitative techniques to determine the optimal asset allocation that maximizes returns for a given level of risk. The analysis involves simulating numerous portfolio combinations of various stocks or mutual funds to create a risk-return plot, identifying the portfolio with the minimum volatility, and the portfolio with the maximum Sharpe Ratio, indicating the optimal risk-adjusted return.
         </p>
     </div>
 </div>
