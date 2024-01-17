@@ -12,7 +12,7 @@ With a commitment to continual learning, I am expanding my technical expertise i
 
 Above all, it's the intersection of **ESG principles and quantitative data** where I find my passion and purpose, striving to become a catalyst for change in an increasingly data-driven world.
 
-### Technical Skills                          ![technical skills image](/assets/images/technical-skills)
+### Technical Skills                          ![technical skills image](/assets/images/technical-skills.jpeg)
 
 
 - **Programming Languages**: Python, R, HTML, CSS
