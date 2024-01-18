@@ -50,16 +50,20 @@ title: Projects
         </p>
             <ul>
                 <li><strong>S&P 500 ESG Risk Ratings Analysis:</strong><br>
-                    Description:<br>
-
+                    <br>
                     This project presents an in-depth analysis of ESG (Environmental, Social, and Governance) risk ratings among S&P 500 companies. Using Python libraries like NumPy, Pandas, and SciPy, I explored and statistically analyzed the dataset to understand ESG risk distribution and trends.<br>
+                    <br>
 
                     Key highlights include:<br>
+                    <br>
                     (add image)
                     
                     Data Exploration: Initial dataset assessment to identify key characteristics.<br>
+                    <br>
                     Statistical Analysis: Correlation and trend analysis to uncover hidden insights.<br>
+                    <br>
                     Visualization: Employed Matplotlib, Seaborn, Plotly Express, and WordCloud to create compelling visual narratives of ESG risk profiles.<br>(add image)<br>
+                    <br>
                     The analysis offers valuable insights into ESG risk trends across major sectors, providing a clear view of corporate sustainability practices.<a href="https://github.com/amaansaigal/ESG-risk-ratings-analysis--S-P-500"> (link)</a>
                 </li>
             </ul>
