@@ -17,6 +17,8 @@ title: Projects
     </div>
 
 
+<!-- portfolio section -->
+
     <div id="proj2" class="edu-content" style="display:none;">
         <h3>About the Project</h3>
         <p>This <a href="https://github.com/amaansaigal/Portfolio-Optimization-Analysis">repository</a> contains a Jupyter Notebook and associated data files for a portfolio optimization analysis project. The project applies quantitative techniques to determine the optimal asset allocation that maximizes returns for a given level of risk. The analysis involves simulating numerous portfolio combinations of various stocks or mutual funds to create a risk-return plot, identifying the portfolio with the minimum volatility, and the portfolio with the maximum Sharpe Ratio, indicating the optimal risk-adjusted return.
@@ -58,7 +60,7 @@ title: Projects
                     Data Exploration: Initial dataset assessment to identify key characteristics.<br>
                     Statistical Analysis: Correlation and trend analysis to uncover hidden insights.<br>
                     Visualization: Employed Matplotlib, Seaborn, Plotly Express, and WordCloud to create compelling visual narratives of ESG risk profiles.<br>(add image)<br>
-                    The analysis offers valuable insights into ESG risk trends across major sectors, providing a clear view of corporate sustainability practices.<a href=""> (link)</a>
+                    The analysis offers valuable insights into ESG risk trends across major sectors, providing a clear view of corporate sustainability practices.<a href="https://github.com/amaansaigal/ESG-risk-ratings-analysis--S-P-500"> (link)</a>
                 </li>
             </ul>
         <p>
@@ -69,7 +71,7 @@ title: Projects
 
 
 
-
+<!-- Data exploration section -->
 
     <div id="proj3" class="edu-content" style="display:none;">
         <h3>Exploration to Visualization</h3>
@@ -85,7 +87,7 @@ title: Projects
 
 
 
-
+<!-- Solana -->
 
 
 
