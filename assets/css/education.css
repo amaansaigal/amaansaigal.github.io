@@ -73,3 +73,8 @@ nav a {
 .edu-content li {
     margin-bottom: 0.5em; /* Adds space below each list item */
 }
+
+.edu-content strong {
+    color: 6B240C /* brown */
+    margin-bottom: 0.5em;
+}
