@@ -48,6 +48,8 @@ title: Projects
                 <li>Collaboration: Contributions and discussions from the data science community are welcomed, fostering collective learning and growth.</li>
             </ol>
         </p>
+        <hr>
+        <br>
             <ul>
                 <li><strong>S&P 500 ESG Risk Ratings Analysis:</strong><br>
                     <br>
@@ -56,13 +58,15 @@ title: Projects
 
                     Key highlights include:<br>
                     <br>
-                    (add image)
+                    <img src="/assets/images/snp500_industry.png" width="50%" height="50%">
+                    <br>
                     
                     Data Exploration: Initial dataset assessment to identify key characteristics.<br>
                     <br>
                     Statistical Analysis: Correlation and trend analysis to uncover hidden insights.<br>
                     <br>
-                    Visualization: Employed Matplotlib, Seaborn, Plotly Express, and WordCloud to create compelling visual narratives of ESG risk profiles.<br>(add image)<br>
+                    Visualization: Employed Matplotlib, Seaborn, Plotly Express, and WordCloud to create compelling visual narratives of ESG risk profiles.<br>
+                    <img src="/assets/images/snp500_pairplot.png" width="50%" height="50%"><br>
                     <br>
                     The analysis offers valuable insights into ESG risk trends across major sectors, providing a clear view of corporate sustainability practices.<a href="https://github.com/amaansaigal/ESG-risk-ratings-analysis--S-P-500"> (link)</a>
                 </li>
