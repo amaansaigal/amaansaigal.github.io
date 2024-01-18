@@ -2,7 +2,7 @@
 #### Email: saigalamaan@gmail.com | Mobile: +44 7424616811
 
 ## About Me
-![personal summary image](/assets/images/personal_summary.png)
+
 
 As an *Economics* graduate with a keen interest in *Environmental, Social, and Governance (ESG) factors*, I've dedicated my career to understanding the intricate balance between economic growth and sustainable practices. My journey in *financial technologies* has been driven by a vision to integrate *data analysis and science* into the heart of climate-focused decision-making.
 
