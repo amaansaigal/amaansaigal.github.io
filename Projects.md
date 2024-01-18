@@ -57,6 +57,7 @@ title: Projects
                     <br>
                     <img src="/assets/images/snp500_industry.png" width="70%" height="55%">
                     <br>
+                    <br>
                     Key highlights include:<br>
                     <br>
                     Data Exploration: Initial dataset assessment to identify key characteristics.<br>
@@ -64,6 +65,7 @@ title: Projects
                     Statistical Analysis: Correlation and trend analysis to uncover hidden insights.<br>
                     <br>
                     Visualization: Employed Matplotlib, Seaborn, Plotly Express, and WordCloud to create compelling visual narratives of ESG risk profiles.<br>
+                    <br>
                     <img src="/assets/images/snp500_paiplot.png" width="60%" height="40%"><br>
                     <br>
                     The analysis offers valuable insights into ESG risk trends across major sectors, providing a clear view of corporate sustainability practices.<a href="https://github.com/amaansaigal/ESG-risk-ratings-analysis--S-P-500"> (link)</a>
