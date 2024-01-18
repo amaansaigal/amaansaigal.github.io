@@ -6,6 +6,7 @@ title: Projects
 <div id="education-container">
     <button class="edu-btn" onclick="toggleEducation('proj1')">Ensemble Learning for Stock Price Prediction</button>
     <button class="edu-btn" onclick="toggleEducation('proj2')">Portfolio Optimisation</button>
+    <button class="edu-btn" onclick="toggleEducation('esg')">ESG</button>
     <button class="edu-btn" onclick="toggleEducation('proj3')">Data Exploration, Cleaning and Transformation</button>
     <button class="edu-btn" onclick="toggleEducation('proj4')">Designing a Solana derivative</button>
     
@@ -22,6 +23,54 @@ title: Projects
         </p>
     </div>
 
+    
+
+<!-- ESG section -->
+
+
+
+    <div id="esg" class="edu-content" style="display:none;">
+        <h3>ESG Data Analysis and Visualization Repositories</h3>
+        <p>Welcome to my ESG Data Insights and Visualization repository on GitHub, where I showcase my expertise in analyzing and visualizing Environmental, Social, and Governance (ESG) data. This space is dedicated to demonstrating my skills in data processing, from initial exploration to advanced visual storytelling. This space will be continually updated. 
+        Repository Features:
+            <ol>
+                <li>Data Exploration: Discover my detailed analyses of ESG datasets, revealing key trends and insights.</li>
+    
+                <li>Data Cleaning and Transformation: See how I refine raw data into structured, analysis-ready formats, ready for deep dives.</li>
+                
+                <li>Advanced Visualizations: Explore complex visualizations crafted with tools like Matplotlib and Seaborn, turning data into clear, engaging narratives.</li>
+                
+                <li>Documentation and Methodology: Each project is well-documented, outlining objectives, processes, and findings for transparency and reproducibility.</li>
+                <li>Analysis and Machine Learning Tools: Explore the integration of advanced analytical techniques and machine learning models. This section demonstrates how I leverage tools like Python's scikit-learn, TensorFlow, and various statistical models to predict trends, classify data, and uncover deeper insights in ESG metrics.</li>
+                
+                <li>Collaboration: Contributions and discussions from the data science community are welcomed, fostering collective learning and growth.</li>
+            </ol>
+        </p>
+            <ul>
+                <li><strong>S&P 500 ESG Risk Ratings Analysis:</strong><br>
+                    Description:<br>
+
+                    This project presents an in-depth analysis of ESG (Environmental, Social, and Governance) risk ratings among S&P 500 companies. Using Python libraries like NumPy, Pandas, and SciPy, I explored and statistically analyzed the dataset to understand ESG risk distribution and trends.<br>
+
+                    Key highlights include:<br>
+                    (add image)
+                    
+                    Data Exploration: Initial dataset assessment to identify key characteristics.<br>
+                    Statistical Analysis: Correlation and trend analysis to uncover hidden insights.<br>
+                    Visualization: Employed Matplotlib, Seaborn, Plotly Express, and WordCloud to create compelling visual narratives of ESG risk profiles.<br>(add image)<br>
+                    The analysis offers valuable insights into ESG risk trends across major sectors, providing a clear view of corporate sustainability practices.<a href=""> (link)</a>
+                </li>
+            </ul>
+        <p>
+        </p>
+    </div>
+
+
+
+
+
+
+
     <div id="proj3" class="edu-content" style="display:none;">
         <h3>Exploration to Visualization</h3>
         <p>I specialize in transforming complex datasets into clear insights. Leveraging pandas and numpy, I refine and analyze data, ensuring it's clean and structured. With matplotlib, and its counterparts like seaborn and plotly, I craft visual narratives that make data interpretation intuitive. This section encapsulates my journey through data cleaning, manipulation, and the art of visualization, showcasing my ability to turn raw data into actionable intelligence.
@@ -33,6 +82,11 @@ title: Projects
             </ul>
         </p>
     </div>
+
+
+
+
+
 
 
     <div id="proj4" class="edu-content" style="display:none;">
