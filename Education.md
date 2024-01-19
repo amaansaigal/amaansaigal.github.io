@@ -11,21 +11,26 @@ title: Education
 
         <div id="uni1" class="edu-content" style="display:none;">
             <h3>University of Westminster (London, UK) - (Sep 2022 - Sep 2023)</h3>
+            <hr>
             <img src="/assets/images/WBS.jpeg" class="edu-logo">
             <p>
                 <ul>
-            <li> <strong>Time Series & Predictive Analysis:</strong> Applied advanced techniques to decipher temporal data patterns, forecast future trends, and analyze financial time series including stocks and options. Leveraged statistical techniques to anticipate future outcomes based on historical data.</li>
-            
+            <li> <strong>Time Series & Predictive Analysis:</strong> 
+            <br>
+            Applied advanced techniques to decipher temporal data patterns, forecast future trends, and analyze financial time series including stocks and options. Leveraged statistical techniques to anticipate future outcomes based on historical data.</li>
+            <br>
             <li> <strong>Machine Learning:</strong> Gained Proficiency in algorithms such as regression, support vector machines(SVM), artificial neural networks, reinforcement learning, and TensorFlow applications.</li>
-            
+            <br>
             <li> <strong>Statistics:</strong> Built a robust foundation in computational methods for finance, econometrics, and big data analytics.</li>
-            
+            <br>
             <li><strong> Portfolio Analytics using ML:</strong> Applied machine learning methods for optimizing financial portfolio performance.</li>
-            
+            <br>
             <li> <strong>Additionally studied:</strong> blockchain technologies, banking technology, SQL, smart contracts, and more.</li>
-            
-            <li><strong> Modules Included:</strong> Blockchain Technologies and cryptocurrencies, Computational methods for Finance, Predictive Analysis, Big Data, Banking Technology, Artificial neural networks, machine learning algorithms, Tensorflow, SQL, Reinforcement learning, Portfolio Analytics using Machine Learning, Smart Contracts, Time series Analysis</li>
-            
+            <br>
+            <li><strong> Modules Included:</strong> 
+            <br>
+            Blockchain Technologies and cryptocurrencies, Computational methods for Finance, Predictive Analysis, Big Data, Banking Technology, Artificial neural networks, machine learning algorithms, Tensorflow, SQL, Reinforcement learning, Portfolio Analytics using Machine Learning, Smart Contracts, Time series Analysis</li>
+            <br>
             <li><strong> Projects: </strong>
                 <ol>
                     <li> Mutual funds and stocks portfolio optimization using machine learning techniques. </li>
@@ -40,39 +45,69 @@ title: Education
         </div>
         
 
-        
+        <!-- This is a comment -->
+
         
         <div id="uni2" class="edu-content" style="display:none;">
             <h3>University of York (York, UK) - (Sep 2019 - Jan 2021)</h3>
+            <hr>
             <img src="/assets/images/UOY.png" class="edu-logo">
             <p>
                 <ul>
                     <li>Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and Governance</li>
-        <li>Developed expertise in Statistical Analysis for environmental research and concepts in Natural Resource Economics.</li>
-        <li>Modules included: Applied Environmental Economics, Environment Impact Assessment, Environmental Governance, Statistical Methods and
-            Research skills, Natural Resource Economics, Welfare Economics.</li>
-        <li>Dissertation: “Disaster Preparedness- A Case Study on Flash floods in Barranquilla”</li>
+                    <li>Developed expertise in Statistical Analysis for environmental research and concepts in Natural Resource Economics.</li>
+                    <li>Modules included: 
+                        <ul>
+                            <li>Applied Environmental Economics</li>
+                            <li>Environment Impact Assessment</li>
+                            <li>Environmental Governance</li> 
+                            <li>Statistical Methods</li>
+                            <li>Research skills</li>
+                            <li>Natural Resource Economics</li> 
+                            <li>Welfare Economics</li>
+                            <li>Spatial Analysis</li>
+                    </li>
+                        </ul>
+                    <li>Dissertation: “Disaster Preparedness- A Case Study on Flash floods in Barranquilla”</li>
                 </ul>
             </p>
                 
         </div>
-        
+
+
+
+        <!-- This is a comment -->
+
         
         <div id="uni3" class="edu-content" style="display:none;">
             <h3>Symbiosis School of Economics (Pune, India) - (Jun 2015 — Jun 2018)</h3>
+            <hr>
             <img src="/assets/images/SSE.png" class="edu-logo">
             <p>
                 <ul>
-                <li>Modules included: Financial Management, Portfolio Management, Econometrics, Macroeconomics, Environmental Economics</li>
+                <li><strong>Modules included:</strong>
+                <br>
+                    <ul> 
+                        <li>Financial Management</li> 
+                        <li>Portfolio Management</li>
+                        <li>Econometrics</li>
+                        <li Macroeconomics></li>
+                        <li>Environmental Economics</li>
+                        <li>Statistical Methods</li>
+                    </ul>
+               </li>
                 <li>Dissertation: “Syrian Refugee Crisis and its Economic Impacts”</li>
                 </ul>
             </p>
         </div>
+
     
-        
+        <!-- This is a comment -->
+
         
         <div id="cert" class="edu-content" style="display:none;">
             <h3>Official and Online certifications</h3>
+            <hr>
             <p>
                 <ul>
                <li>Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs) by <a href="https://courses.edx.org/certificates/e7e7db74245a4f3597e20fdcd97000ee">World Bank</a></li>
