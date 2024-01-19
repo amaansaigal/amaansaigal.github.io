@@ -52,9 +52,9 @@ title: Education
             <h3>University of York (York, UK) - (Sep 2019 - Jan 2021)</h3>
             <hr>
             <img src="/assets/images/UOY.png" class="edu-logo">
-            <p>
+            <p> <!-- Close the paragraph tag here -->
                 <ul>
-                    <li>Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and Governance</li>
+                    <li>Focused on Environmental Economics and Climate Science, with studies in Environmental Impact Assessment and                                 Governance</li>
                     <li>Developed expertise in Statistical Analysis for environmental research and concepts in Natural Resource Economics.</li>
                     <li>Modules included: 
                         <ul>
@@ -66,12 +66,11 @@ title: Education
                             <li>Natural Resource Economics</li> 
                             <li>Welfare Economics</li>
                             <li>Spatial Analysis</li>
-                    </li>
                         </ul>
+                    </li>
                     <li>Dissertation: “Disaster Preparedness- A Case Study on Flash floods in Barranquilla”</li>
                 </ul>
             </p>
-                
         </div>
 
 
