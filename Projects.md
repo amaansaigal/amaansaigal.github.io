@@ -21,6 +21,9 @@ title: Projects
 
     <div id="proj2" class="edu-content" style="display:none;">
         <h3>About the Project</h3>
+        <br>
+        <img src="/assets/images/portfolio_opt.png" width="60%" height="60%">
+        <br>
         <p>This <a href="https://github.com/amaansaigal/Portfolio-Optimization-Analysis">repository</a> contains a Jupyter Notebook and associated data files for a portfolio optimization analysis project. The project applies quantitative techniques to determine the optimal asset allocation that maximizes returns for a given level of risk. The analysis involves simulating numerous portfolio combinations of various stocks or mutual funds to create a risk-return plot, identifying the portfolio with the minimum volatility, and the portfolio with the maximum Sharpe Ratio, indicating the optimal risk-adjusted return.
         </p>
     </div>
@@ -101,6 +104,9 @@ title: Projects
 
     <div id="proj4" class="edu-content" style="display:none;">
         <h3>About the Project</h3>
+        <br>
+        <img src="/assets/images/solana.png" width="60%" height="60%">
+        <br>
         <p>I've crafted a sophisticated Solana derivative model using the European Black-Scholes formula, integrated with Monte Carlo simulation techniques. This robust approach allowed me to accurately price the derivative, taking into account the volatility and unique characteristics of the Solana cryptocurrency. I also generated and visualized key Greeks such as Vega, Rho, and Delta, providing deep insights into how the derivative's price is sensitive to various market factors. Through this model, investors can better understand the risk profile and potential price movements of the derivative. <a href="https://github.com/amaansaigal/Computational-Methods-for-Finance">(link)</a>
         </p>
     </div>
