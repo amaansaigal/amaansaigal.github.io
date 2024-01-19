@@ -84,18 +84,18 @@ title: Education
             <img src="/assets/images/SSE.png" class="edu-logo">
             <p>
                 <ul>
-                <li><strong>Modules included:</strong>
-                <br>
-                    <ul> 
-                        <li>Financial Management</li> 
-                        <li>Portfolio Management</li>
-                        <li>Econometrics</li>
-                        <li Macroeconomics></li>
-                        <li>Environmental Economics</li>
-                        <li>Statistical Methods</li>
-                    </ul>
-               </li>
-                <li>Dissertation: “Syrian Refugee Crisis and its Economic Impacts”</li>
+                    <li><strong>Modules included:</strong>
+                    <br>
+                        <ul> 
+                            <li>Financial Management</li> 
+                            <li>Portfolio Management</li>
+                            <li>Econometrics</li>
+                            <li Macroeconomics></li>
+                            <li>Environmental Economics</li>
+                            <li>Statistical Methods</li>
+                        </ul>
+                   </li>
+                    <li>Dissertation: “Syrian Refugee Crisis and its Economic Impacts”</li>
                 </ul>
             </p>
         </div>
