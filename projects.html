@@ -1,4 +1,6 @@
-<html lang="en"><script async="false" type="text/javascript" src="chrome-extension://fnjhmkhhmkbjkkabndcnnogagogbneec/in-page.js"></script><head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
@@ -32,10 +34,13 @@
             max-width: 100%;
             height: auto;
         }
+        .edu-content {
+            display: none;
+        }
     </style>
     <title>Projects - Amaan Saigal</title>
 </head>
-<body data-new-gr-c-s-check-loaded="14.1150.0" data-gr-ext-installed="">
+<body>
     <nav class="container-fluid">
         <ul>
             <li><strong>amaansaigal.github.io</strong></li>
@@ -50,33 +55,33 @@
     <main class="container">
         <div class="grid">
             <section>
-                <button class="edu-btn">Ensemble Learning for Stock Price Prediction</button>
-                <button class="edu-btn">Portfolio Optimisation</button>
-                <button class="edu-btn">ESG</button>
-                <button class="edu-btn">Data Exploration, Cleaning and Transformation</button>
-                <button class="edu-btn">Designing a Solana Derivative</button>
+                <button class="edu-btn" onclick="toggleProject('proj1')">Ensemble Learning for Stock Price Prediction</button>
+                <button class="edu-btn" onclick="toggleProject('proj2')">Portfolio Optimisation</button>
+                <button class="edu-btn" onclick="toggleProject('proj3')">ESG</button>
+                <button class="edu-btn" onclick="toggleProject('proj4')">Data Exploration, Cleaning and Transformation</button>
+                <button class="edu-btn" onclick="toggleProject('proj5')">Designing a Solana Derivative</button>
 
-                <div class="edu-content">
+                <div id="proj1" class="edu-content">
                     <h3>About the Project</h3>
                     <p>[Details about Ensemble Learning for Stock Price Prediction]</p>
                 </div>
 
-                <div class="edu-content">
+                <div id="proj2" class="edu-content">
                     <h3>About the Project</h3>
                     <p>[Details about Portfolio Optimisation]</p>
                 </div>
 
-                <div class="edu-content">
+                <div id="proj3" class="edu-content">
                     <h3>ESG Data Analysis and Visualization Repositories</h3>
                     <p>[Details about ESG projects]</p>
                 </div>
 
-                <div class="edu-content">
+                <div id="proj4" class="edu-content">
                     <h3>Exploration to Visualization</h3>
                     <p>[Details about Data Exploration, Cleaning and Transformation]</p>
                 </div>
 
-                <div class="edu-content">
+                <div id="proj5" class="edu-content">
                     <h3>About the Project</h3>
                     <p>[Details about Designing a Solana Derivative]</p>
                 </div>
@@ -87,4 +92,14 @@
         <small>Email: saigalamaan@gmail.com | Mobile: +44 7424616811</small>
     </footer>
 
-</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
+    <script>
+    function toggleProject(projId) {
+        var elements = document.getElementsByClassName('edu-content');
+        for (var i = 0; i < elements.length; i++) {
+            elements[i].style.display = 'none';
+        }
+        document.getElementById(projId).style.display = 'block';
+    }
+    </script>
+</body>
+</html>
